@@ -1,0 +1,11 @@
+.list {
+  margin-bottom: 30px;
+
+  &__add-button {
+    opacity: 0.5;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
